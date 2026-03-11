@@ -1,7 +1,5 @@
 # Kafka-Avro Manual Schema Evolution Pipeline
 
-This project is a hands-on implementation of a Kafka data pipeline focused on manual schema management and evolution. The goal was to move beyond automated tools and interact directly with the **Confluent Schema Registry API** to handle real-world schema changes.
-
 ## 🎯 Task Objectives
 * **Manual API Mastery:** Built Producers and Consumers from scratch using the `confluent-kafka` Python API.
 * **Schema Evolution:** Managed the lifecycle of a schema by manually adding and removing fields.
